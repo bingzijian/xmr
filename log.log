@@ -73,3 +73,52 @@ HASHRATE REPORT
 -----------------------------------------------------
 Totals:   (na) 13.0 (na) H/s
 Highest:  0.0 H/s
+[2017-06-30 21:25:24] : New block detected.
+[2017-06-30 21:25:24] : New block detected.
+HASHRATE REPORT
+| ID | 2.5s |  60s |  15m | ID | 2.5s |  60s |  15m |
+|  0 | (na) | 2.6 | (na) |  1 | (na) | 3.3 | (na) |
+|  2 | (na) | 4.5 | (na) |
+-----------------------------------------------------
+Totals:   (na) 10.3 (na) H/s
+Highest:  0.0 H/s
+[2017-06-30 21:26:44] : Difficulty changed. Now: 5289.
+[2017-06-30 21:26:44] : New block detected.
+HASHRATE REPORT
+| ID | 2.5s |  60s |  15m | ID | 2.5s |  60s |  15m |
+|  0 | (na) | 3.1 | (na) |  1 | (na) | 3.8 | (na) |
+|  2 | (na) | 5.2 | (na) |
+-----------------------------------------------------
+Totals:   (na) 12.2 (na) H/s
+Highest:  0.0 H/s
+HASHRATE REPORT
+| ID | 2.5s |  60s |  15m | ID | 2.5s |  60s |  15m |
+|  0 | (na) | 1.1 | (na) |  1 | (na) | 1.7 | (na) |
+|  2 | (na) | 2.7 | (na) |
+-----------------------------------------------------
+Totals:   (na) 5.5 (na) H/s
+Highest:  0.0 H/s
+[2017-06-30 21:28:22] : New block detected.
+HASHRATE REPORT
+| ID | 2.5s |  60s |  15m | ID | 2.5s |  60s |  15m |
+|  0 | (na) | 1.3 | (na) |  1 | (na) | 2.1 | (na) |
+|  2 | (na) | 3.0 | (na) |
+-----------------------------------------------------
+Totals:   (na) 6.4 (na) H/s
+Highest:  0.0 H/s
+[2017-06-30 21:30:14] : Difficulty changed. Now: 3760.
+[2017-06-30 21:30:14] : New block detected.
+HASHRATE REPORT
+| ID | 2.5s |  60s |  15m | ID | 2.5s |  60s |  15m |
+|  0 | (na) | 3.3 | (na) |  1 | (na) | 4.2 | (na) |
+|  2 | (na) | 5.1 | (na) |
+-----------------------------------------------------
+Totals:   (na) 12.6 (na) H/s
+Highest:  0.0 H/s
+HASHRATE REPORT
+| ID | 2.5s |  60s |  15m | ID | 2.5s |  60s |  15m |
+|  0 | (na) | 2.2 | 2.7 |  1 | (na) | 3.0 | 3.5 |
+|  2 | (na) | 4.1 | 4.5 |
+-----------------------------------------------------
+Totals:   (na) 9.3 10.8 H/s
+Highest:  0.0 H/s
